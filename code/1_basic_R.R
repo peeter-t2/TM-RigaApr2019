@@ -1,5 +1,5 @@
 #Originally compiled by David Lorenz 2017, see R_Glossary v1-4.pdf
-#Adapted for R tidyverse workshop in Tartu Winter School 2018, by Peeter Tinits
+#Adapted for R text mining with tidyverse workshop in Rīgas Tehniskā universitāte, April 2019, by Peeter Tinits
 
 # Run* these commands one by one (line by line). Mostly, you will be able to figure out what's going on, even without fully understanding the "language"...
 

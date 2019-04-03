@@ -1,7 +1,7 @@
-#Compiled for R tidyverse workshop in Tartu Winter School 2018, by Peeter Tinits
+#Compiled for R text mining with tidyverse workshop in Rīgas Tehniskā universitāte, April 2019, by Peeter Tinits
 #dataset: https://github.com/walkerkq/musiclyrics
 #based on: https://en.wikipedia.org/wiki/Billboard_Hot_100
-#the concept inspired by work behind Brand, Charlotte; Acerbi, Alberto & Mesoudi, Alex. 2018. Cultural evolution of emotional expression in 50 years of song lyrics. 
+#the concept inspired by work behind Brand, Charlotte; Acerbi, Alberto & Mesoudi, Alex. 2018. Cultural evolution of emotional expression in 50 years of song lyrics. https://osf.io/3j6wx/
 
 
 

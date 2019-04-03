@@ -1,4 +1,4 @@
-#Compiled for R tidyverse workshop in Tartu Winter School 2018, by Peeter Tinits
+#Compiled for R text mining with tidyverse workshop in Rīgas Tehniskā universitāte, April 2019 by Peeter Tinits
 #
 #from https://github.com/rstudio/webinars/blob/master/46-tidyverse-visualisation-and-manipulation-basics/ (RStudio webinar by garretgman, CC)
 #and http://rpubs.com/aelhabr/tidyverse-basics
